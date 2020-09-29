@@ -1,0 +1,8 @@
+node_modules/
+
+# view/
+audio.json
+model.json
+# webpack.config.js
+# babel.config.json
+configure.js
